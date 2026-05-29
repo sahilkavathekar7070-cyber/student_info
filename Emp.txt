@@ -1,0 +1,1 @@
+Emp Name: Alex, Salary: 65000, Dept:IT, Work Place: ItVedant 
